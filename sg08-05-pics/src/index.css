@@ -1,0 +1,31 @@
+.app {
+  max-width: 1300px;
+  margin: 2rem;
+}
+
+.search-bar {
+  margin-bottom: 2rem;
+  padding: 0.5rem;
+  font-size: 2rem;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+}
+
+.search-bar form {
+  display: flex;
+  flex-direction: column;
+}
+
+.search-bar form input {
+  font-size: 2rem;
+}
+
+.image-list {
+  columns: 6 200px;
+  column-gap: 10px;
+}
+
+img {
+  width: 100%;
+  margin-bottom: 10px;
+}

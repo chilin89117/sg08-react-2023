@@ -1,0 +1,69 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Abbie"
+    },
+    {
+      "name": "Sonya Botsford",
+      "id": 2
+    },
+    {
+      "name": "Julio Dickinson-Zieme",
+      "id": 3
+    },
+    {
+      "name": "Tyler Beahan",
+      "id": 4
+    }
+  ],
+  "albums": [
+    {
+      "title": "Licensed Granite Mouse",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "title": "Electronic Cotton Cheese",
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "title": "Refined Wooden Bacon",
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "title": "Elegant Steel Ball",
+      "userId": 3,
+      "id": 4
+    },
+    {
+      "title": "Sleek Steel Pants",
+      "userId": 3,
+      "id": 5
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 3,
+      "url": "https://picsum.photos/seed/pmI2wpxX/150/150",
+      "id": 2
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150?lock=3542005363769344",
+      "id": 4
+    },
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/150/150?lock=7634017471954944",
+      "id": 5
+    },
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/150/150?lock=210160622501888",
+      "id": 6
+    }
+  ]
+}
