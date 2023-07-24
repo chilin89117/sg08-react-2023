@@ -1,6 +1,6 @@
 <img
   src="./public/screen.png"
-  alt="sg08-21-media"
+  alt="sg08-20-cars"
   style="display: block; margin: 0 auto; max-width: 600px"
 />
 

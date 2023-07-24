@@ -1,6 +1,6 @@
 <img
   src="./public/screen.png"
-  alt="sg08-21-media"
+  alt="sg08-10-comps"
   style="display: block; margin: 0 auto; max-width: 600px"
 />
 
